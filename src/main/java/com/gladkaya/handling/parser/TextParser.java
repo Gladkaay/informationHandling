@@ -9,7 +9,6 @@ import com.gladkaya.handling.parser.ParagraphParser;
 
 public class TextParser extends AbstractTextParser {
     private static final String PARAGRAPH_REGEX = "\\s{4}";
-   // private static final String PATTERN_PARAGRAPH = "\\s{4}(.|!|\\?)+";
 
     @Override
     public void parseRequest(TextComponent composite, String data) throws ProjectException {

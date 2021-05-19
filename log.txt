@@ -1,0 +1,46 @@
+2021-05-20 00:35:54.507 INFO com.gladkaya.handling.reader.DataReader - File has been read successfully
+2021-05-20 01:09:42.984 INFO com.gladkaya.handling.reader.DataReader - File has been read successfully
+2021-05-20 01:10:59.685 INFO com.gladkaya.handling.reader.DataReader - File has been read successfully
+2021-05-20 01:11:56.647 INFO com.gladkaya.handling.reader.DataReader - File has been read successfully
+2021-05-20 01:21:03.771 INFO com.gladkaya.handling.reader.DataReader - File has been read successfully
+2021-05-20 01:21:40.873 INFO com.gladkaya.handling.reader.DataReader - File has been read successfully
+2021-05-20 01:22:53.584 INFO com.gladkaya.handling.reader.DataReader - File has been read successfully
+2021-05-20 01:22:53.599 INFO com.gladkaya.handling._main.TaskMain -     It has survived - not only (five) centuries, but also the leap into electronic
+typesetting, remaining essentially unchanged. It was popularised in the “Dinamo” (Riga)
+with the release of Letraset sheets.toString() containing Lorem Ipsum passages, and
+more recently with desktop publishing software like Aldus PageMaker Faclon9 including
+versions of Lorem Ipsum!
+    It is a long a!=b established fact that a reader will be distracted by the readable
+content of a page when looking at its layout. The point of using Ipsum is that it has a
+more-or-less normal distribution ob.toString(a?b:c), as opposed to using,
+content here's, making it look like readable English?
+    It is a established fact that a reader will be of a page when looking at its layout...
+2021-05-20 01:22:53.599 INFO com.gladkaya.handling._main.TaskMain - com.gladkaya.handling.parser.TextParser@ca6b3b9d
+2021-05-20 02:16:02.754 INFO com.gladkaya.handling.reader.DataReader - File has been read successfully
+2021-05-20 02:16:35.328 INFO com.gladkaya.handling.reader.DataReader - File has been read successfully
+2021-05-20 02:17:03.962 INFO com.gladkaya.handling.reader.DataReader - File has been read successfully
+2021-05-20 02:18:06.188 INFO com.gladkaya.handling.reader.DataReader - File has been read successfully
+2021-05-20 02:21:24.014 INFO com.gladkaya.handling.reader.DataReader - File has been read successfully
+2021-05-20 02:21:24.046 INFO com.gladkaya.handling._main.TaskMain -     It has survived - not only (five) centuries, but also the leap into electronic
+typesetting, remaining essentially unchanged. It was popularised in the “Dinamo” (Riga)
+with the release of Letraset sheets.toString() containing Lorem Ipsum passages, and
+more recently with desktop publishing software like Aldus PageMaker Faclon9 including
+versions of Lorem Ipsum!
+    It is a long a!=b established fact that a reader will be distracted by the readable
+content of a page when looking at its layout. The point of using Ipsum is that it has a
+more-or-less normal distribution ob.toString(a?b:c), as opposed to using,
+content here's, making it look like readable English?
+    It is a established fact that a reader will be of a page when looking at its layout...
+2021-05-20 02:24:46.067 INFO com.gladkaya.handling.reader.DataReader - File has been read successfully
+2021-05-20 02:26:11.676 INFO com.gladkaya.handling.reader.DataReader - File has been read successfully
+2021-05-20 02:30:12.646 INFO com.gladkaya.handling.reader.DataReader - File has been read successfully
+2021-05-20 02:35:52.080 INFO com.gladkaya.handling.reader.DataReader - File has been read successfully
+2021-05-20 02:39:06.560 INFO com.gladkaya.handling.reader.DataReader - File has been read successfully
+2021-05-20 02:39:25.307 INFO com.gladkaya.handling.reader.DataReader - File has been read successfully
+2021-05-20 02:39:40.864 INFO com.gladkaya.handling.reader.DataReader - File has been read successfully
+2021-05-20 02:40:31.207 INFO com.gladkaya.handling.reader.DataReader - File has been read successfully
+2021-05-20 02:42:05.466 INFO com.gladkaya.handling.reader.DataReader - File has been read successfully
+2021-05-20 02:42:44.455 INFO com.gladkaya.handling.reader.DataReader - File has been read successfully
+2021-05-20 02:44:12.871 INFO com.gladkaya.handling.reader.DataReader - File has been read successfully
+2021-05-20 02:46:16.874 INFO com.gladkaya.handling.reader.DataReader - File has been read successfully
+2021-05-20 02:48:16.650 INFO com.gladkaya.handling.reader.DataReader - File has been read successfully

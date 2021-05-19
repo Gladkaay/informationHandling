@@ -30,7 +30,12 @@ public class Symbol implements TextComponent {
     }
 
     @Override
-    public List<TextComponent> getTextComponent() throws ProjectException {
+    public List<TextComponent> getTextComponents() throws ProjectException {
         throw new ProjectException();
+    }
+
+    @Override
+    public int getAmount() {
+        return 1;
     }
 }

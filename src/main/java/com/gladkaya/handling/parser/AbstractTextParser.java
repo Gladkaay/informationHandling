@@ -14,7 +14,7 @@ public abstract class AbstractTextParser {
     }
 
     public void setNextParser(AbstractTextParser nextParser) {
-        this.nextParser = nextParser;
+        nextParser = nextParser;
     }
 
      public abstract void parseRequest(TextComponent composite, String data) throws ProjectException;

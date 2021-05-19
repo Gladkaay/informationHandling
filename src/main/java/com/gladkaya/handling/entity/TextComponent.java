@@ -8,5 +8,6 @@ public interface TextComponent {
     boolean add(TextComponent textComponent) throws ProjectException;
     boolean remove(TextComponent textComponent) throws ProjectException;
     ComponentType getComponentType();
-    List<TextComponent> getTextComponent() throws ProjectException;
+    List<TextComponent> getTextComponents() throws ProjectException;
+    int getAmount();
 }

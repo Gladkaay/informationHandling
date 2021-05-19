@@ -4,8 +4,7 @@ import com.gladkaya.handling.entity.ComponentType;
 import com.gladkaya.handling.entity.TextComponent;
 import com.gladkaya.handling.entity.impl.TextComposite;
 import com.gladkaya.handling.exception.ProjectException;
-import com.gladkaya.handling.parser.AbstractTextParser;
-import com.gladkaya.handling.parser.WordParser;
+
 
 public class LexemeParser extends AbstractTextParser {
     private static final String WORD_REGEX = "[a-zA-Z]+";
